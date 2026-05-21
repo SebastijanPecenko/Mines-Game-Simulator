@@ -55,7 +55,7 @@ Current RTP:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/SebastijanPecenko/Mines-Game-Simulator.git
+git clone -b master https://github.com/SebastijanPecenko/Mines-Game-Simulator.git
 ```
 
 2. Open the project in NetBeans
